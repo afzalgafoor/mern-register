@@ -1,0 +1,28 @@
+/* .logout{
+    border-radius: 10px;
+    background-color: springgreen;
+    width: 100px;
+    height: 40px;
+} */
+
+/* .logout > .button{
+    border-radius: 10px;
+    background-color: springgreen;
+}
+
+.button{
+    border-radius: 10px;
+} */
+
+.logout > .btn {
+  background: #0a0002;
+  border: 1px solid #110202;
+  color: #fff;
+  font-size: 1.25rem;
+  padding: 5px;
+  margin: 0.5rem 0;
+  border-radius: 10px;
+  outline: none;
+  cursor: pointer;
+  position: relative;
+}
